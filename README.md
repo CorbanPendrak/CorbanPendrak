@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CorbanPendrak
+- 👀 I’m interested in a variety of topics not limited to the digital world, but am especially fascinated by natural language processing (NLP) transformers, learning web development, and raspberry pi robots.  
+- 🌱 I’m currently learning about all of the things that I am interested in as well and everything I can.
+- 💞️ I’m looking to collaborate on every project that seems interesting, since the idea of editing another person's code still seems so strange.
