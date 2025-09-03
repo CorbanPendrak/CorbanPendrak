@@ -1,8 +1,17 @@
-![Header](./github-header-image.png)
-
-- 👋 Hello! I am @CorbanPendrak, a student programmer.
-- 📖 I’m interested in a variety of topics not limited to the digital world, but am especially fascinated by natural language processing (NLP) transformers, web development, docker, and raspberry pi robots.  
-- 🤔 In computer programming, I am currently learning about everything interesting I can find, from how GitHub actions work to using Bettercap in practice.
-- 📝 I hope to soon learn more about machine learning genetic algorithms, a new language like 🐿️Go or 🦀Rust, and advanced penetration testing with HackTheBox.
-- 🤝 I’m looking to collaborate on every project that seems interesting and can use my limited knowledge, since the idea of editing another person's code seems so novel.
-- ✏️ Because of my lack of experience, I am mostly collaborating with documentation projects, as well as building my skills through personal projects.
+<div align="center">
+  <img src="./github-header-image.png" alt="Corban Pendrak, student programmer"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://roadmap.sh/card/tall/68b2f0094984ef82316cbdee?variant=dark&roadmaps=%2Ccyber-security%2Ccomputer-science%2Cpython" alt="roadmap.sh" width="300px"/>
+      </td>
+      <td>
+        <p>
+          📚 To find out what I am learning, checkout <a href="https://roadmap.sh/u/corbanpendrak">Roadmap.sh</a><br>
+          🛠️ To find out what I am working on, checkout <a href="https://github.com/CorbanPendrak">GitHub</a> <br>
+          😎 To find out more about me, checkout <a href="https://corbanpendrak.github.io">my website</a>
+        <p>
+      </td>
+    </tr>
+  </table>
+</div>
